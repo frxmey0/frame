@@ -1,0 +1,10 @@
+    /* border: 1px #f41c1c solid; */
+    display: grid;
+    padding: 18px 12px;
+    background-color: #dfa9f0;
+    color: #ffffff;
+    animation-fill-mode: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 14px ;
+    overflow: hidden;
